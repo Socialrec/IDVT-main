@@ -1,5 +1,3 @@
-# IDVT-main
-
 # IDVT: Interest-aware Denoising and View-guided Tuning for Social Recommendation
 ![IDVT-framework](https://github.com/Socialrec/IDVT-main/blob/main/IDVT/IDVT.png)
 >This is our Pytorch implementation for our paper. [Paper in arXiv](https://arxiv.org/pdf/2308.15926.pdf)
